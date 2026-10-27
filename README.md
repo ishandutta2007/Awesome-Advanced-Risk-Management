@@ -66,7 +66,7 @@ The sector exhibits **moderate fragmentation with specialized sub-segment concen
 
 ## 💻 Open-Source GitHub Projects
 
-*Curated open-source security platforms, vulnerability management engines, threat intelligence networks, financial risk calculators, and AI guardrails sorted by GitHub Stars_Counts in descending order.*
+*Curated open-source security platforms, vulnerability management engines, threat intelligence networks, financial risk calculators, and AI guardrails sorted by GitHub_Stars_Counts in descending order.*
 
 | Project 🌟 | GitHub_Stars ⭐ | Description 📖 |
 | :--- | :--- | :--- |
