@@ -66,9 +66,9 @@ The sector exhibits **moderate fragmentation with specialized sub-segment concen
 
 ## 💻 Open-Source GitHub Projects
 
-*Curated open-source security platforms, vulnerability management engines, threat intelligence networks, financial risk calculators, and AI guardrails sorted by GitHub star counts in descending order.*
+*Curated open-source security platforms, vulnerability management engines, threat intelligence networks, financial risk calculators, and AI guardrails sorted by GitHub Stars_Counts in descending order.*
 
-| Project 🌟 | GitHub Stars ⭐ | Description 📖 |
+| Project 🌟 | GitHub_Stars ⭐ | Description 📖 |
 | :--- | :--- | :--- |
 | **[Wazuh](https://github.com/wazuh/wazuh)** | [![Stars](https://img.shields.io/github/stars/wazuh/wazuh?style=social&color=white)](https://github.com/wazuh/wazuh/stargazers) | Open-source enterprise security platform providing unified XDR and SIEM protection across endpoints, cloud workloads, compliance auditing, and active response. |
 | **[OpenCTI](https://github.com/OpenCTI-Platform/opencti)** | [![Stars](https://img.shields.io/github/stars/OpenCTI-Platform/opencti?style=social&color=white)](https://github.com/OpenCTI-Platform/opencti/stargazers) | Unified open cyber threat intelligence (CTI) management platform designed to structure, store, organize, and visualize operational, tactical, and strategic cyber threats. |
@@ -114,7 +114,7 @@ Contributions are warmly welcomed! To suggest a new tool, framework, or update:
 2. **Create a branch** for your addition (`git checkout -b feature/add-new-risk-platform`).
 3. Add the SaaS product or Open-Source project ensuring:
    - For SaaS tools: Exact starting price and explicit free tier/trial limits.
-   - For Open-Source repositories: Official GitHub link, star badge (`style=social&color=white`), and concise description.
+   - For Open-Source repositories: Official GitHub link, Stars_Badge (`style=social&color=white`), and concise description.
 4. **Commit** your changes (`git commit -m "feat: add [Tool Name]"`).
 5. **Push** to your branch and submit a **Pull Request**.
 
