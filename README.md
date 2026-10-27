@@ -27,6 +27,7 @@
 - [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 Support](#-support)
 - [📈 Star History](#-star-history)
 - [🛠️ How to Contribute](#️-how-to-contribute)
 - [⚖️ Disclaimer](#️-disclaimer)
@@ -82,6 +83,20 @@ The sector exhibits **moderate fragmentation with specialized sub-segment concen
 | **[CVE Binary Tool](https://github.com/intel/cve-bin-tool)** | [![Stars](https://img.shields.io/github/stars/intel/cve-bin-tool?style=social&color=white)](https://github.com/intel/cve-bin-tool/stargazers) | Intel-developed binary scanner and software supply-chain risk analyzer that audits SBOMs and identifies known CVE vulnerabilities in system components. |
 | **[Open Source Risk Engine (ORE)](https://github.com/OpenSourceRisk/Engine)** | [![Stars](https://img.shields.io/github/stars/OpenSourceRisk/Engine?style=social&color=white)](https://github.com/OpenSourceRisk/Engine/stargazers) | Financial risk calculation engine implementing contemporary derivative pricing, stress testing, Value at Risk (VaR), and regulatory capital calculations (Basel/FRTB). |
 | **[SimpleRisk](https://github.com/SimpleRisk/simplerisk)** | [![Stars](https://img.shields.io/github/stars/SimpleRisk/simplerisk?style=social&color=white)](https://github.com/SimpleRisk/simplerisk/stargazers) | Simple, intuitive, open-source enterprise risk management application for identifying, assessing, mitigating, and monitoring governance and compliance risks. |
+
+---
+
+## 🤝 Support
+
+Thank you for exploring and utilizing **Awesome-Advanced-Risk-Management**! 💖
+
+If you found this directory valuable for your enterprise risk architecture, security research, or quantitative models, please consider:
+- 🌟 **Starring** this repository on GitHub to increase visibility for the community
+- 🍴 **Forking** and contributing missing tools, updated pricing models, or benchmarks
+- 📢 **Sharing** with fellow risk managers, compliance officers, security engineers, and quants
+- ☕ **Buying a coffee / Sponsoring** the maintainer via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)
+
+Your support powers continuous curation, vendor research, and maintenance across open-source risk frameworks!
 
 ---
 
